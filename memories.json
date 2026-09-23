@@ -1,0 +1,14 @@
+{
+
+  "coverImage": "photos/1.png",
+  "photos": [
+       { "src": "photos/2.png" },
+    { "src": "photos/3.png"},
+    { "src": "photos/4.png" },
+    { "src": "photos/5.png"},
+    { "src": "photos/6.png" },
+    { "src": "photos/7.png" },
+    { "src": "photos/8.png"},
+    { "src": "photos/9.png"}    
+  ]
+}
